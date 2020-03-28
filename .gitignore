@@ -1,0 +1,5 @@
+*.idea/*
+.DS_Store
+TensorFlow Deployment/Course 1 - TensorFlow-JS/.idea/*
+*.bin
+*.h5
